@@ -13,11 +13,11 @@
 
 :root {
     --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
+    --color-bg-variant: #c5ff7a;
+    --color-primary: #cb6dbb;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
-    --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-white: #89004f;
+    --color-light: rgba(86, 102, 198, 0.6);
 
     --transition: all 400ms ease;
 
@@ -44,7 +44,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;   
-    background-image: url(../src/assets/vintage-wallpaper.webp);
+    background-image: url(../src/assets/pexels.jpg);
 }
 
 /*------GENERAL STYLES ------*/
@@ -135,7 +135,7 @@ img {
 
  section {
     margin-top: 6rem;
-
+    height: 100vh;
  }
 
 }
