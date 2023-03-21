@@ -16,24 +16,24 @@ const Portfolio = () => {
         <img  src={IMG1} alt=""/>
       </div>
       <h3>Healthy Market app</h3>
-      <a href="http://github.com" className='btn'>Github</a>
-      <a href="http://deploy.com" className='btn btn-primary' >Deploy</a>
+      <a href="https://github.com/loreleymilazzo/Healthy-Market-App" className='btn'>Github</a>
+      <a href="https://healthy-market-app.vercel.app/" className='btn btn-primary' >Deploy</a>
       </article>
       <article className="portfolio__item">
       <div className="portfolio__item-image">
         <img  src={IMG2} alt=""/>
       </div>
       <h3>Countries app</h3>
-      <a href="http://github.com" className='btn'>Github</a>
-      <a href="http://deploy.com" className='btn btn-primary' >Deploy</a>
+      <a href="https://github.com/loreleymilazzo/PI_HENRY_COUNTRIES" className='btn'>Github</a>
+      <a href="https://pi-henry-countries-three.vercel.app/" className='btn btn-primary' >Deploy</a>
       </article>
       <article className="portfolio__item">
       <div className="portfolio__item-image">
         <img  src={IMG3} alt=""/>
       </div>
       <h3>Weather app</h3>
-      <a href="http://github.com" className='btn'>Github</a>
-      <a href="http://deploy.com" className='btn btn-primary' >Deploy</a>
+      <a href="https://github.com/loreleymilazzo/weather-app" className='btn'>Github</a>
+      <a href="https://weather-app-one-green.vercel.app/" className='btn btn-primary' >Deploy</a>
       </article>
 
     </div>
