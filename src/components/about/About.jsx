@@ -20,22 +20,22 @@ const about = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5> Experiencia</h5>
-              <small>Graduada del bootcamp Henry</small>
+              <small>Bootcamp Henry 
+                <br/>
+              Codo a Codo
+              </small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5> Proyectos</h5>
-              <small> Individuales y en grupo</small>
+              <small> + 4</small>
             </article>
           </div>
           <p>
             
-             Soy Full Stack Developer con una inclinación
-            especial hacia el frontend y un gran interés en el diseño UX/UI. Me
-            gradué de un bootcamp de más de 800 horas de código en Henry, donde
-            aprendí a trabajar en equipo y a desarrollar soluciones innovadoras
-            para desafíos reales en el mundo de la tecnología. 
+            Soy Full Stack Developer con una inclinación especial hacia el frontend y un gran interés en el diseño UX UI. 
+            Recientemente graduada del bootcamp soyHenry con más de 800 hs de código. Pude desarrollar proyectos tanto individuales como grupales.
           </p>
           <a href="#contact" className="btn btn.primary">
             {" "}
