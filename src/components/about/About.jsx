@@ -39,10 +39,10 @@ const about = () => {
 
 
           </p>
-          <a href="#contact" className="btn btn.primary">
+          {/* <a href="#contact" className="btn btn.primary">
             {" "}
             Contactame{" "}
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
