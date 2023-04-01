@@ -11,12 +11,12 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
+    --color-bg: #ffffff;
     --color-bg-variant: #8ecae6;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
-    --color-white: #023047;
-    --color-light: #fb8500; 
+    --color-primary: #d9d9d9;
+    --color-primary-variant: #3c6e71;
+    --color-white: #284b63;
+    --color-light: #353535; 
 
     --transition: all 400ms ease;
 
@@ -38,7 +38,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url('./assets/pexels.jpg');
+    /* background-image: url('./assets/pexels.jpg'); */
 }
 
 /* ======== GENERAL STYLES ========= */

@@ -26,16 +26,18 @@ const about = () => {
               </small>
             </article>
 
-            <article className="about__card">
+             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
-              <h5> Proyectos</h5>
-              <small> + 4</small>
-            </article>
+              <h5> Proyecto</h5>
+              <small>https://healthy-market-app.vercel.app/ </small>
+            </article> 
           </div>
           <p>
-            
-            Soy Full Stack Developer con una inclinación especial hacia el frontend y un gran interés en el diseño UX UI. 
-            Recientemente graduada del bootcamp soyHenry con más de 800 hs de código. Pude desarrollar proyectos tanto individuales como grupales.
+          Soy Loreley, desarrolladora Full Stack con una pasión por el Frontend y un gran interés en el diseño UX/UI. Recientemente me gradué del bootcamp SoyHenry, donde invertí más de 800 horas en la creación de proyectos tanto individuales como en equipo.
+          <br/>
+          Actualmente me encuentro en busca de mi primer empleo en el área IT. 
+
+
           </p>
           <a href="#contact" className="btn btn.primary">
             {" "}
